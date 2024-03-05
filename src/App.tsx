@@ -1,5 +1,4 @@
 import Cover from './pages/cover/Cover'
-import './App.css'
 import { Route, Routes } from 'react-router-dom'
 import MainPage from './pages/mainpage/MainPage'
 import { createGlobalStyle } from 'styled-components'

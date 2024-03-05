@@ -60,7 +60,7 @@ function Cover() {
       <MainTextContainer>
       <h1>Desafio Lacrei Saúde</h1>
       <MainText>Desafio feito utilizando React, Typescript e Styled-Components.</MainText>
-      <MainButton onClick={routeChange}>Desafio</MainButton>
+      <MainButton onClick={routeChange} test-id = 'MainButton'>Desafio</MainButton>
       </MainTextContainer>
       <img src={logo} alt="Logo Lacrei Saúde" />
     </Main>
