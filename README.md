@@ -2,7 +2,10 @@
 
 Desafio feito utilizando React, React Router Dom, Typescript, Styled-Components.
 
-O desafio consistia em copiar um design utilizando o Figma, fiz o que acredito ter sido o mais parecido.
+O desafio consistia em copiar um design utilizando o Figma, e também em fazer o deploy da aplicação e um teste.
+Fiz o deploy utilizando Vercel e o teste usei React Testing Library.
+Para fazer um teste um pouco mais complexo, criei uma página cover com apenas um botão
+e verifiquei se ele redirecionava para a rota '/desafio'.
 
 ## Rodando o projeto localmente
 
@@ -23,5 +26,3 @@ Ao clonar o repositório execute os seguinter comandos no terminal:
 
 Esse projeto teve seu deploy feito utilizando Vercel.
 Então pode acessar esse link : https://desafio-lacrei-brunoangeloccimartins-projects.vercel.app/
-obs: Por alguma razão os ajustes feitos na página de capa ficaram diferentes no Vercel, rodando localmente
-verá qual era o objetivo do design.
