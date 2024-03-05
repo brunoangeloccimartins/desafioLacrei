@@ -1,7 +1,7 @@
 import { useNavigate } from "react-router-dom"
 import styled from "styled-components"
 import logo from '../../assets/LOGO_LACREI.svg'
-import background from '../../assets/Background.svg'
+import background from '../../assets/Background.png'
 
 
 
